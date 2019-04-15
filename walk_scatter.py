@@ -20,4 +20,5 @@ while True:
     if keep_running == 'n':
         break
 end_time = time.time()
+"""大概用了17秒"""
 print('time cost', end_time - start_time, 's')
